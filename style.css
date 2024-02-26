@@ -1,3 +1,8 @@
 body {
   font-family: Helvetica;
 }
+
+/* Home */
+#home {
+  background-color: #f1f3ff;
+}
