@@ -46,3 +46,10 @@ body {
 .carousel-control-next-icon {
   background-image: url("./assets/icons/Vector-kanan.svg");
 }
+
+/* Faq */
+@media screen and (max-width: 576px) {
+  .faq {
+    text-align: center;
+  }
+}
