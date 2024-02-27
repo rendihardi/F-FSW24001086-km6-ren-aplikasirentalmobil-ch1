@@ -6,3 +6,10 @@ body {
 #home {
   background-color: #f1f3ff;
 }
+
+/* Why Us */
+@media screen and (max-width: 576px) {
+  .why_us {
+    text-align: center;
+  }
+}
