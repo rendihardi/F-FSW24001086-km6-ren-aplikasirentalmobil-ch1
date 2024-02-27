@@ -13,3 +13,36 @@ body {
     text-align: center;
   }
 }
+
+/* Testimoni */
+@media (max-width: 576px) {
+  .container-testimoni {
+    margin: 0% !important;
+    padding: 0% !important;
+  }
+  .testimoni {
+    flex-direction: column;
+    text-align: center;
+  }
+  .profile {
+    margin: 0% !important;
+  }
+  .review {
+    margin: 0% !important;
+  }
+}
+
+.carousel {
+  background: #f3f1ff;
+  width: 832px;
+  height: 270px;
+  margin: auto;
+}
+
+.carousel-control-prev-icon {
+  background-image: url("./assets/icons/Vector-kiri.svg");
+}
+
+.carousel-control-next-icon {
+  background-image: url("./assets/icons/Vector-kanan.svg");
+}
